@@ -19,4 +19,5 @@ To finish commit all your code and your report to your personal Github repositor
 Good Luck!
 
 References: https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Chemical_Process_Dynamics_and_Controls_(Woolf)/13%3A_Statistics_and_Probability_Background/13.01%3A_Basic_statistics-_mean%2C_median%2C_average%2C_standard_deviation%2C_z-scores%2C_and_p-value
+
 References: https://github.com/senrabc/a_problem_with_presidents
