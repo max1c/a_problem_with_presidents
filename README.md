@@ -1,5 +1,6 @@
 # a_problem_with_presidents
-Solution to a problem with presidents
+Solution to a problem with presidents:
+
 A Problem with Presidents; a data to information challenge.
 Author: Christopher P. Barnes
 Date: September 28, 2021
